@@ -1,5 +1,7 @@
 # Market Risk Engine 2.0
 
+EDITOR NOTE: Currently embarking on CFA to build up finance knowledge. Will resume this project as I learn more about portfolio management.
+
 ![Market Risk Engine 2.0 thumbnail](assets/market_risk_engine_2_0_demo.gif)
 
 ![React](https://img.shields.io/badge/React-19-20232A?logo=react&logoColor=61DAFB)
